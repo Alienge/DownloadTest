@@ -2,7 +2,7 @@
   "updateItem":{
 
     "Version": "0.0.1",
-    "UpdateContent": "更新最新版",
+    "UpdateContent": "latestversion",
     "DownloadUri": "",
     "Time": "2019/12/3",
     "Size": "300k"
